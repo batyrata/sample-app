@@ -1,1 +1,2 @@
-My App is all about nothing :D
+MyApp
+This is just a sample project
